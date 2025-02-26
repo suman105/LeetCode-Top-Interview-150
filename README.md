@@ -4,10 +4,9 @@ Welcome to my **LeetCode Top Interview 150** solution repository! This repositor
 
 ## 📌 **About LeetCode Top Interview 150** 
 **LeetCode Top Interview 150** is a curated list of essential coding problems designed to help you ace **technical interviews, competitive programming, and coding assessments**. These problems cover a wide range of topics, including:
-✔ Data Structures & Algorithms
-✔ Problem-Solving Strategies
-✔ Coding Best Practices
-✔ Interview-Ready Solutions
+1. Data Structures & Algorithms
+2. Problem-Solving Strategies
+3. Interview-Ready Solutions
 
 ## 📂 **Repository Structure**  
 The solutions are categorized based on topics, making it easy to navigate:  
