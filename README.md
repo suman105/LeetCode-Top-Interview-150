@@ -1,10 +1,13 @@
-# **LeetCode Top Interview 150 - C++ Solution Repository** 🚀  
+# 🚀 **LeetCode Top Interview 150 - C++ Solution Repository**   
 
 Welcome to my **LeetCode Top Interview 150** solution repository! This repository contains well-structured, optimized **C++** solutions to all **LeetCode Top Interview 150** problems, along with detailed explanations for each problem to enhance your understanding.
 
 ## 📌 **About LeetCode Top Interview 150** 
-**LeetCode Top Interview 150** is a curated list of essential coding problems designed to improve problem-solving skills for **technical interviews, competitive programming, and coding assessments**. These problems cover a broad spectrum of topics that help you master **data structures**, **algorithms**, and their applications.
-
+**LeetCode Top Interview 150** is a curated list of essential coding problems designed to help you ace **technical interviews, competitive programming, and coding assessments**. These problems cover a wide range of topics, including:
+✔ Data Structures & Algorithms
+✔ Problem-Solving Strategies
+✔ Coding Best Practices
+✔ Interview-Ready Solutions
 
 ## 📂 **Repository Structure**  
 The solutions are categorized based on topics, making it easy to navigate:  
